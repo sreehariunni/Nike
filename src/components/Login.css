@@ -1,0 +1,20 @@
+.co{
+    background-image: url("https://i.postimg.cc/6q8pqykn/4b62975d1dca180da8a533a34f5bb231-1.gif");
+    background-size: cover;
+
+
+}
+.p2{
+    background: url(https://content.rolex.com/dam/homepage/cut-out/homepage-gmt-master-ii-m126715chnr-0001-cutout-background.jpg)   -20px -20px no-repeat;
+    /* -webkit-text-fill-color: transparent; */
+    -webkit-background-clip:text;
+    /* Below is not needed */
+    display:block;
+    font-size: 30px;
+    font-family: arial;
+   text-align: center;
+   margin-top: -95px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    background-size: cover;
+  }
